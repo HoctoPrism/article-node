@@ -1,0 +1,4 @@
+/node_modules
+/.idea
+
+/app/config/db.config.js
